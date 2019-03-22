@@ -1,0 +1,16 @@
+{
+  "main.css": "/brandingpage/static/css/main.93f3fa0f.chunk.css",
+  "main.js": "/brandingpage/static/js/main.69a74cb9.chunk.js",
+  "main.js.map": "/brandingpage/static/js/main.69a74cb9.chunk.js.map",
+  "runtime~main.js": "/brandingpage/static/js/runtime~main.12c32cec.js",
+  "runtime~main.js.map": "/brandingpage/static/js/runtime~main.12c32cec.js.map",
+  "static/js/2.4fbec745.chunk.js": "/brandingpage/static/js/2.4fbec745.chunk.js",
+  "static/js/2.4fbec745.chunk.js.map": "/brandingpage/static/js/2.4fbec745.chunk.js.map",
+  "index.html": "/brandingpage/index.html",
+  "precache-manifest.54c3e9306877b87241bda721d00aaa70.js": "/brandingpage/precache-manifest.54c3e9306877b87241bda721d00aaa70.js",
+  "service-worker.js": "/brandingpage/service-worker.js",
+  "static/css/main.93f3fa0f.chunk.css.map": "/brandingpage/static/css/main.93f3fa0f.chunk.css.map",
+  "static/media/atencion.png": "/brandingpage/static/media/atencion.717f2b42.png",
+  "static/media/desarrollo.png": "/brandingpage/static/media/desarrollo.0c82e7cd.png",
+  "static/media/logo.png": "/brandingpage/static/media/logo.5d1cac64.png"
+}
